@@ -1,0 +1,54 @@
+/* Gaya umum untuk body */
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+/* Judul utama */
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+/* Deskripsi */
+.description {
+    font-size: 23px;
+}
+
+/* Judul bagian */
+.section-title {
+    font-size: 32px;
+}
+
+/* Gambar standar */
+.image {
+    width: 300px;
+    height: 300px;
+}
+
+/* Gambar besar */
+.image-large {
+    width: 400px;
+    height: 300px;
+}
+
+/* Tombol */
+.button {
+    font-size: 20px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Marquee */
+marquee {
+    background-color: white;
+}
+
+/* Iframe untuk video */
+.video-iframe {
+    width: 600px;
+    height: 400px;
+}
